@@ -11,7 +11,7 @@ Every edition covers:
 ---
 
 ## 📬 Subscribe to the Newsletter
-🔗 [LLMs Unfiltered on LinkedIn](https://www.linkedin.com/newsletters/)
+🔗 [LLMs Unfiltered on LinkedIn]([https://www.linkedin.com/newsletters/llm-unfiltered-7477032890749579264])
 
 ---
 
