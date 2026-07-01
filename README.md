@@ -27,5 +27,5 @@ Every edition covers:
 **Kokila M**
 Final year AI & Data Science student | Builder | MLSA
 
-🔗 [LinkedIn](https://www.linkedin.com/in/kokila-m) | [GitHub](https://github.com/kokilamariyayi)
+🔗 [LinkedIn](https://www.linkedin.com/in/kokila-m-ai-ds) | [GitHub](https://github.com/kokilamariyayi)
 
